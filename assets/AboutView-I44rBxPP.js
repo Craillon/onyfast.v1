@@ -1,0 +1,1 @@
+import{b as e,c as t,d as n,e as r}from"./index-9sGesaim.js";const i={},a={class:`about`};function o(e,i){return t(),r(`div`,a,i[0]||=[n(`h1`,null,`This is an about page`,-1)])}var s=e(i,[[`render`,o]]);export{s as default};
